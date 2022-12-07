@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Testing"
-new files added
+new files added2
